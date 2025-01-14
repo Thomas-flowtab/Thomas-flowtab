@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Thomas
-- 👀 I’m interested in AI/ML
-- 🌱 I’m currently learning Multi-Agent Systems
-- 📫 How to reach me: thomas.moerman@flowtab.be
+- 📫 How to reach me: thomas.moerman@forenoon.eu
 
 <!---
 Thomas-flowtab/Thomas-flowtab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
